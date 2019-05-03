@@ -1,4 +1,11 @@
 <?php
+/**
+ *  @file    index.php
+ *  @author  Mahmoud Ahmed Tawfik (@mahmoudahmedd)
+ *  @date    03/05/2019
+ *  @version 1.0
+ */
+
 // include database and core files
 include_once '/config/database.php';
 include_once '/config/core.php';

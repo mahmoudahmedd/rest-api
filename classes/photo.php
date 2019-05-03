@@ -1,4 +1,10 @@
 <?php
+/**
+ *  @file    photo.php
+ *  @author  Mahmoud Ahmed Tawfik (@mahmoudahmedd)
+ *  @date    03/05/2019
+ *  @version 1.0
+ */
 class Photo
 {
     // access token, database connection and table name

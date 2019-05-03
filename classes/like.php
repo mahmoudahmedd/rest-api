@@ -1,4 +1,10 @@
 <?php
+/**
+ *  @file    like.php
+ *  @author  Mahmoud Ahmed Tawfik (@mahmoudahmedd)
+ *  @date    03/05/2019
+ *  @version 1.0
+ */
 class Like
 {
     // access token, database connection and table name

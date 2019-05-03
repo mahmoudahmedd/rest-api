@@ -1,4 +1,10 @@
 <?php
+/**
+ *  @file    core.php
+ *  @author  Mahmoud Ahmed Tawfik (@mahmoudahmedd)
+ *  @date    03/05/2019
+ *  @version 1.0
+ */
 // show error reporting
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
